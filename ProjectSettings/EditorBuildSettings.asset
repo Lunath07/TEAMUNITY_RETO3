@@ -5,25 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/3DGamekit/Scenes/Start.unity
-    guid: 57df1e417250bc247976c2c0dc088efe
-  - enabled: 0
-    path: Assets/3DGamekit/Scenes/GamePlay/Level1.unity
-    guid: ed46e53182fb08b4482fd3c4a75bc631
-  - enabled: 0
-    path: Assets/3DGamekit/Scenes/GamePlay/Level2.unity
-    guid: bfc86215544d6ab42b838135fdd17f21
-  - enabled: 0
-    path: Assets/NIVELMARIO.unity
-    guid: 3ce0ebc2bb8ef8b45865779478606f17
-  - enabled: 0
-    path: Assets/NATALIA/N_LUNA.unity
-    guid: f57323d4fed8bd04e8b80d00121f6cc7
-  - enabled: 0
-    path: Assets/PRUEBA.unity
-    guid: a555a980b8bc2964f9927b2d8072fd79
   - enabled: 1
     path: Assets/Scenes/1. LUNA DESIERTO.unity
     guid: ff126ebc927b30944816fb4b89f74328
+  - enabled: 1
+    path: Assets/Scenes/2. KEVIN AGUA.unity
+    guid: 787a195edecdad040b09fe4afc7f723e
+  - enabled: 1
+    path: Assets/Scenes/3.lava.unity
+    guid: 2de1d49e0247d904c9dc4b6f94b6127d
   m_configObjects: {}
