@@ -107,8 +107,8 @@ Material:
     - _vertScale: 0.1
     m_Colors:
     - _Color: {r: 0, g: 0.07809329, b: 0.24528301, a: 1}
-    - _Color1: {r: 0, g: 0.09667497, b: 0.30188674, a: 1}
-    - _Color2: {r: 0, g: 1.4176404, b: 2.4175847, a: 1}
+    - _Color1: {r: 1, g: 0.62891984, b: 0, a: 1}
+    - _Color2: {r: 0.05660379, g: 0.04753839, b: 0.046724826, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _vertSpeed: {r: 100, g: 100, b: 10, a: 0}
   m_BuildTextureStacks: []
