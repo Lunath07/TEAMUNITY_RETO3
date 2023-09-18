@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3.lava.unity
     guid: 2de1d49e0247d904c9dc4b6f94b6127d
+  - enabled: 1
+    path: Assets/Scenes/4. nivel aire.unity
+    guid: 2d0faae1f0cbf8c4c8cfcbe0af63e01e
   m_configObjects: {}
